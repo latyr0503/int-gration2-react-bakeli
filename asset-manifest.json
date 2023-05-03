@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/int-gration2-react-bakeli/static/css/main.ff9daa3c.css",
-    "main.js": "/int-gration2-react-bakeli/static/js/main.ad007bd3.js",
+    "main.css": "/int-gration2-react-bakeli/static/css/main.5e60f6b2.css",
+    "main.js": "/int-gration2-react-bakeli/static/js/main.3d3b1893.js",
     "static/js/787.936953fb.chunk.js": "/int-gration2-react-bakeli/static/js/787.936953fb.chunk.js",
     "static/media/tokyo.png": "/int-gration2-react-bakeli/static/media/tokyo.1253e9beb2bd3e51f7f5.png",
     "static/media/Rectangle 51.png": "/int-gration2-react-bakeli/static/media/Rectangle 51.ac9bf9a2a3d357c2872d.png",
@@ -13,12 +13,12 @@
     "static/media/image 1.png": "/int-gration2-react-bakeli/static/media/image 1.8449803b8ebb42f5355a.png",
     "static/media/image 3.png": "/int-gration2-react-bakeli/static/media/image 3.85af6a68a5fcd0c508f7.png",
     "index.html": "/int-gration2-react-bakeli/index.html",
-    "main.ff9daa3c.css.map": "/int-gration2-react-bakeli/static/css/main.ff9daa3c.css.map",
-    "main.ad007bd3.js.map": "/int-gration2-react-bakeli/static/js/main.ad007bd3.js.map",
+    "main.5e60f6b2.css.map": "/int-gration2-react-bakeli/static/css/main.5e60f6b2.css.map",
+    "main.3d3b1893.js.map": "/int-gration2-react-bakeli/static/js/main.3d3b1893.js.map",
     "787.936953fb.chunk.js.map": "/int-gration2-react-bakeli/static/js/787.936953fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff9daa3c.css",
-    "static/js/main.ad007bd3.js"
+    "static/css/main.5e60f6b2.css",
+    "static/js/main.3d3b1893.js"
   ]
 }
